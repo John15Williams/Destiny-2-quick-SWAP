@@ -1,7 +1,8 @@
 # Destiny-2-quick-SWAP
-<font color="red"> DISCLAIMER: The author is not responsible for the content! </font>
+```diff
+- DISCLAIMER: The author is not responsible for the content!
 I recommend using this in PVE mode. Because in PVP this gives an advantage over other players.
-
+```
 ## Installation
 
 
