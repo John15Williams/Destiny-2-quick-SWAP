@@ -5,6 +5,8 @@ This can lead to a ban.
 
 Although this error in the game is 5 years old, and for this there was not a single ban.
 But be careful anyway.
+## Script in action
+https://youtu.be/6OWhP6KR0Co
 
 ## Script editing
 * [Install AutoHotKey.](https://www.autohotkey.com/)
