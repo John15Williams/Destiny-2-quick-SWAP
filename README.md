@@ -3,8 +3,8 @@
 - DISCLAIMER: The author is not responsible for the content!
 - I recommend using this in PVE mode. Because in PVP this gives an advantage over other players.
 - This can lead to a ban.
-
-+ But this error in the game is 5 years old, and for this there was not a single ban. But be careful anyway.
++ Although this error in the game is 5 years old, and for this there was not a single ban.
+- But be careful anyway.
 ```
 ## Script editing
 * [Install AutoHotKey.](https://www.autohotkey.com/)
