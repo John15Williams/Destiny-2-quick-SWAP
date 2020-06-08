@@ -3,7 +3,7 @@ DISCLAIMER: The author is not responsible for the content!
 I recommend using this in PVE mode. Because in PVP this gives an advantage over other players.
 This can lead to a ban.
 
-Although this error in the game is 5 years old, and for this there was not a single ban.
+Although this error in the game is 3 years old, and for this there was not a single ban.
 But be careful anyway.
 ## Script in action
 https://youtu.be/6OWhP6KR0Co
