@@ -5,7 +5,7 @@
 - This can lead to a ban.
 ```
 ## Installation
-
+* Just download this "Quick.SWAP.weapon.exe" [here.](https://github.com/John15Williams/Destiny-2-quick-SWAP/releases)
 
 ## Usage
 * [Install AutoHotKey.](https://www.autohotkey.com/)
