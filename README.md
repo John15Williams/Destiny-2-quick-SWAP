@@ -7,6 +7,7 @@
 ## Installation
 * Just download this "Quick.SWAP.weapon.exe" [here.](https://github.com/John15Williams/Destiny-2-quick-SWAP/releases)
 * To enable or disable the script, just press f12.
+* Switching between weapons occurs with buttons 1, 2 and 3.
 ## Usage
 * [Install AutoHotKey.](https://www.autohotkey.com/)
 * [Download AHK script.](https://github.com/John15Williams/Destiny-2-quick-SWAP/blob/master/Quick%20SWAP%20weapon.ahk)
