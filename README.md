@@ -5,12 +5,13 @@
 - This can lead to a ban.
 ```
 ## Installation
-* [Install AutoHotKey](https://www.autohotkey.com/)
 
 
 ## Usage
-
-
+* [Install AutoHotKey.](https://www.autohotkey.com/)
+* [Download AHK script.](https://github.com/John15Williams/Destiny-2-quick-SWAP/blob/master/Quick%20SWAP%20weapon.ahk)
+* [Right-click on the script and select "Edit Script".](https://imgur.com/a/Ivw7cUc)
+* After the changes, save and run the script.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
